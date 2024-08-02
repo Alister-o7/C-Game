@@ -3,6 +3,12 @@
 A simple cardgame build upon a custom game engine.\
 Written in C using 'SDL2' and 'glad'.
 
+## How to run
+
+Use Visual Studio Developer Command Prompt,\
+navigate to ```game``` folder and\
+run ```clean & build & cgame```.
+
 ## Dungeon
 
 Explore the dungeon, exchange coins for collectible cards\
@@ -54,4 +60,4 @@ Example:
 'M' -> MACHINE,\
 'B' -> BOSS
 
-When done, replace the original map in ```assets/maps```.
+When done, replace the original map in ```game/assets/maps```.
