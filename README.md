@@ -14,7 +14,8 @@ run ```clean & build & cgame```.
 Explore the dungeon, exchange coins for collectible cards\
 by collecting tresure and winning enemy and boss encounters.
 
-![cGame_dungeon_s](https://github.com/user-attachments/assets/ff72073b-9207-4f2f-8826-b9f363c23b8f)
+![cGame_dungeon_s](https://github.com/user-attachments/assets/39698287-9fbc-41da-8a6f-613a783d98e5)
+
 
 ## Cardgame
 
@@ -26,7 +27,7 @@ that will determine it's weakness and advantage over other cards.
 
 Game ends when either of the sides loses its total HP.
 
-![cGame_cardgame_s](https://github.com/user-attachments/assets/7abd29b9-cc18-4d8c-9d91-2225939fe15c)
+![cGame_cardgame_s](https://github.com/user-attachments/assets/89a0a6fa-fcb3-473b-af11-75fa9d1ab0c0)
 
 
 ## Custom Dungeons
