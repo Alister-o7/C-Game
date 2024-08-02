@@ -9,6 +9,8 @@ Use Visual Studio Developer Command Prompt,\
 navigate to ```game``` folder and\
 run ```clean & build & cgame```.
 
+Modify ```config.ini``` to change keybindings.
+
 ## Dungeon
 
 Explore the dungeon, exchange coins for collectible cards\
