@@ -12,7 +12,7 @@ run ```clean & build & cgame```.
 ## Dungeon
 
 Explore the dungeon, exchange coins for collectible cards\
-by collecting tresure and winning enemy and boss encounters.
+by collecting treasure and winning enemy and boss encounters.
 
 ![cGame_dungeon_s](https://github.com/user-attachments/assets/39698287-9fbc-41da-8a6f-613a783d98e5)
 
@@ -22,7 +22,7 @@ by collecting tresure and winning enemy and boss encounters.
 Deploy cards from your hand onto the board,\
 up to three of player's cards can be deployed at once.
 
-Each cards has its attack, defence and health value, aswell as an archetype\
+Each card has its attack, defence and health value, aswell as an archetype\
 that will determine it's weakness and advantage over other cards.
 
 Game ends when either of the sides loses its total HP.
